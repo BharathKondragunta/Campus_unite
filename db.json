@@ -1,0 +1,42 @@
+{
+  "volunteer": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "dob": "",
+      "phone": "",
+      "gender": "",
+      "id": "ced3"
+    },
+    {
+      "id": "1b41",
+      "name": "sunny",
+      "email": "hi@gmail.com",
+      "password": "hi",
+      "dob": "2024-04-04",
+      "phone": "89776420",
+      "gender": "male"
+    }
+  ],
+  "user": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "dob": "",
+      "phone": "",
+      "gender": "",
+      "id": "56d8"
+    },
+    {
+      "id": "03fc",
+      "name": "sunny",
+      "email": "hi@gmail.com",
+      "password": "hi",
+      "dob": "2024-04-04",
+      "phone": "89776420",
+      "gender": ""
+    }
+  ]
+}
